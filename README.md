@@ -21,7 +21,7 @@ Animations: Smooth snake movement and food spawn effects using CSS transitions.
 
 Game Over Screen: Stylish retry option with animated transitions.
 
-🛠️ Technologies Used
+🛠️ Tech stacks
 
 React: Component-based architecture for dynamic UI.
 
